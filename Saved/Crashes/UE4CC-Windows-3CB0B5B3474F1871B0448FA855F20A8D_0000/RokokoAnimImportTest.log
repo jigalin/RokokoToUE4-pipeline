@@ -1,0 +1,1319 @@
+﻿Log file open, 03/17/21 23:57:12
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: RokokoAnimImportTest
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.798003
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogXGEController: Cleaning working directory: C:/Users/Victor/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.51.0
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/EpicGamesLibrary/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.17-16.57.15:216][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.17-16.57.15:216][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Config/Windows/Engine.ini]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Config/Windows/Engine.ini]
+[2021.03.17-16.57.15:217][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Config/Windows/Engine.ini]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Config/Windows/Engine.ini]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.03.17-16.57.15:217][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Config/Windows/Engine.ini]
+[2021.03.17-16.57.15:217][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Config/Windows/Engine.ini]
+[2021.03.17-16.57.15:229][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-16.57.15:229][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.17-16.57.15:229][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.17-16.57.15:229][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-16.57.15:229][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.17-16.57.15:229][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-16.57.15:229][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.17-16.57.15:229][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.17-16.57.15:229][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.17-16.57.15:229][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.17-16.57.15:229][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.17-16.57.15:229][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.17-16.57.15:229][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.17-16.57.15:229][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.17-16.57.15:229][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.17-16.57.15:229][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.17-16.57.15:229][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.17-16.57.15:229][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.17-16.57.15:229][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.17-16.57.15:229][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.17-16.57.15:229][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.17-16.57.15:229][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.17-16.57.15:229][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.17-16.57.15:229][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.17-16.57.15:229][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-16.57.15:229][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.17-16.57.15:230][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.17-16.57.15:231][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.17-16.57.15:231][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.17-16.57.15:231][  0]LogHAL: Display: Platform has ~ 32 GB [34194505728 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.17-16.57.15:231][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.17-16.57.15:231][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-16.57.15:231][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2021.03.17-16.57.15:231][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2021.03.17-16.57.15:231][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-16.57.15:231][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2021.03.17-16.57.15:231][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-16.57.15:231][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.17-16.57.15:231][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2021.03.17-16.57.15:231][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2021.03.17-16.57.15:231][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2021.03.17-16.57.15:231][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2021.03.17-16.57.15:231][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2021.03.17-16.57.15:231][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2021.03.17-16.57.15:231][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2021.03.17-16.57.15:231][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2021.03.17-16.57.15:231][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2021.03.17-16.57.15:231][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2021.03.17-16.57.15:231][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2021.03.17-16.57.15:231][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2021.03.17-16.57.15:231][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.17-16.57.15:231][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-16.57.15:231][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:0]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.SSGI.Quality:1]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2021.03.17-16.57.15:232][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.17-16.57.15:238][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.17-16.57.15:238][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.17-16.57.15:238][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.17-16.57.15:238][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Config/Windows/Engine.ini]
+[2021.03.17-16.57.15:241][  0]LogInit: Computer: MSI
+[2021.03.17-16.57.15:241][  0]LogInit: User: Victor
+[2021.03.17-16.57.15:241][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.03.17-16.57.15:241][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.17-16.57.15:241][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2021.03.17-16.57.15:241][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.17-16.57.15:241][  0]LogMemory: Process Physical Memory: 143.33 MB used, 143.33 MB peak
+[2021.03.17-16.57.15:241][  0]LogMemory: Process Virtual Memory: 110.82 MB used, 110.82 MB peak
+[2021.03.17-16.57.15:241][  0]LogMemory: Physical Memory: 11477.94 MB used,  21132.48 MB free, 32610.42 MB total
+[2021.03.17-16.57.15:241][  0]LogMemory: Virtual Memory: 134192328.00 MB used,  25396.59 MB free, 134217728.00 MB total
+[2021.03.17-16.57.15:247][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.17-16.57.15:551][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.17-16.57.15:554][  0]LogInit: Using OS detected language (en-US).
+[2021.03.17-16.57.15:555][  0]LogInit: Using OS detected locale (en-AU).
+[2021.03.17-16.57.15:569][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.03.17-16.57.15:913][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.17-16.57.15:944][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.17-16.57.16:083][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.17-16.57.16:083][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.17-16.57.19:654][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2021.03.17-16.57.19:654][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.17-16.57.19:654][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.17-16.57.19:654][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.17-16.57.19:804][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (Feature Level 11_0)
+[2021.03.17-16.57.19:804][  0]LogD3D11RHI:       8031/0/16305 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.03.17-16.57.19:853][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.03.17-16.57.19:853][  0]LogD3D11RHI:       128/0/16305 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.03.17-16.57.19:857][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.17-16.57.19:857][  0]LogD3D11RHI:       0/0/16305 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.17-16.57.19:857][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.17-16.57.19:863][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.17-16.57.19:864][  0]LogD3D11RHI:     GPU DeviceId: 0x1f10 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.17-16.57.19:864][  0]LogWindows: EnumDisplayDevices:
+[2021.03.17-16.57.19:864][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2021.03.17-16.57.19:864][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.03.17-16.57.19:864][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.03.17-16.57.19:864][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:1)
+[2021.03.17-16.57.19:864][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0)
+[2021.03.17-16.57.19:865][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0)
+[2021.03.17-16.57.19:865][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0)
+[2021.03.17-16.57.19:865][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.03.17-16.57.19:865][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070 with Max-Q Design
+[2021.03.17-16.57.19:865][  0]LogD3D11RHI:   Driver Version: 461.72 (internal:27.21.14.6172, unified:461.72)
+[2021.03.17-16.57.19:865][  0]LogD3D11RHI:      Driver Date: 2-23-2021
+[2021.03.17-16.57.19:865][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2021.03.17-16.57.19:964][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.17-16.57.19:965][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.17-16.57.19:965][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.17-16.57.20:001][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.03.17-16.57.20:005][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.03.17-16.57.20:659][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.17-16.57.20:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.17-16.57.20:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.17-16.57.20:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.17-16.57.20:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.17-16.57.20:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.17-16.57.20:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.17-16.57.20:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.17-16.57.20:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.17-16.57.20:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.17-16.57.20:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.17-16.57.20:783][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.17-16.57.20:783][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.17-16.57.20:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.17-16.57.20:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.17-16.57.20:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.17-16.57.20:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.17-16.57.20:934][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.17-16.57.20:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.17-16.57.20:984][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.17-16.57.21:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.17-16.57.21:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.17-16.57.21:055][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.03.17-16.57.21:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.03.17-16.57.21:114][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.03.17-16.57.21:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.03.17-16.57.21:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.17-16.57.21:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.17-16.57.21:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.17-16.57.21:228][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.17-16.57.21:258][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.17-16.57.21:289][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.17-16.57.21:289][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.17-16.57.21:413][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.17-16.57.22:026][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.03.17-16.57.22:027][  0]LogShaderCompilers: Guid format shader working directory is -48 characters bigger than the processId version (../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Intermediate/Shaders/WorkingDirectory/520/).
+[2021.03.17-16.57.22:027][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Victor/AppData/Local/Temp/UnrealShaderWorkingDir/334469704E42A45A15016587BB8E6822/'.
+[2021.03.17-16.57.22:029][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.17-16.57.22:029][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.17-16.57.26:469][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.17-16.57.26:597][  0]LogDerivedDataCache: Loaded boot cache 0.13s 106MB C:/Users/Victor/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.17-16.57.26:598][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Victor/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.03.17-16.57.26:598][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.17-16.57.26:598][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.17-16.57.26:598][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.17-16.57.26:598][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.17-16.57.26:620][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.17-16.57.26:620][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.17-16.57.26:620][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.17-16.57.26:740][  0]LogDerivedDataCache: Speed tests for C:/Users/Victor/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.12 seconds
+[2021.03.17-16.57.26:740][  0]LogDerivedDataCache: Display: Performance to C:/Users/Victor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.25ms. RandomReadSpeed=14.83MBs, RandomWriteSpeed=17.19MBs. Assigned SpeedClass 'Local'
+[2021.03.17-16.57.26:740][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Victor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.17-16.57.26:740][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.17-16.57.26:740][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.17-16.57.26:800][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.17-16.57.26:824][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.17-16.57.27:181][  0]LogAssetRegistry: FAssetRegistry took 0.0057 seconds to start up
+[2021.03.17-16.57.27:517][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.17-16.57.27:517][  0]LogInit: Active device profile: [00000150D374DF00][00000150D3069400 49] Windows
+[2021.03.17-16.57.27:518][  0]LogInit: Profiles: [00000150D374DF00][00000150D3069400 49] Windows, [00000150D36A6000][00000150D3071580 49] WindowsNoEditor, [00000150D374D300][00000150D3075700 49] WindowsServer, [00000150D36A6B00][00000150D306D840 49] WindowsClient, [00000150D374C900][00000150D3079980 49] IOS, [00000150D36A6200][00000150D307DAC0 49] iPadAir, [00000150D374D200][00000150D3085C40 49] iPadAir2, [00000150D364E700][00000150D308C240 49] IPadPro, [00000150D364E800][00000150D3088280 49] iPadAir3, [00000150D36A6600][00000150D3090400 49] iPadAir4, [00000150D364E500][00000150D3094580 49] iPadMini2, [00000150D36A4C00][00000150D3098700 49] iPadMini3, [00000150D364CE00][00000150D309C880 49] iPadMini4, [00000150D36A6100][00000150D30A0A00 49] iPadMini5, [00000150D3699F00][00000150D30A8CC0 49] iPhone6, [00000150D369A000][00000150D30A4D00 49] iPodTouch6, [00000150D364E000][00000150D40C0FC0 49] iPhone7, [00000150D364DF00][00000150D30AD000 49] iPodTouch7, [00000150D369B900][00000150D40C5180 49] iPhone5S, [00000150D364F000][00000150D40C9300 49] iPhone6Plus, [00000150D3698F00][00000150D40CD480 49] iPhone6S, [00000150D364F100][00000150D40D1600 49] iPhone6SPlus, [00000150D3699700][00000150D40D5780 49] iPhone7Plus, [00000150D364EC00][00000150D30818C0 49] iPhoneSE, [00000150D369B000][00000150D40D9A00 49] iPhone8, [00000150D364C300][00000150D40DDB40 49] iPhone8Plus, [00000150D369BC00][00000150D40E5CC0 49] iPhoneX, [00000150D364F400][00000150D40E8180 49] iPhoneXS, [00000150D3698500][00000150D40EC300 49] iPhoneXSMax, [00000150D364FB00][00000150D40F0480 49] iPhoneXR, [00000150D369A500][00000150D40F4600 49] iPhone11, [00000150D364DB00][00000150D40F8780 49] iPhone11Pro, [00000150D3699200][00000150D40FC900 49] iPhone11ProMax, [00000150D364FF00][00000150D4100A80 49] iPhoneSE2, [00000150D369B500][00000150D4104C00 49] iPhone12Mini, [00000150D364E300][00000150D4108D80 49] iPhone12, [00000150D3698200][00000150D410CF00 49] iPhone12Pro, [00000150D364E200][00000150D4111080 49] iPhone12ProMax, [00000150D3698100][00000150D4115200 49] iPadPro105, [00000150D364E400][00000150D4119380 49] iPadPro129, [00000150D369A100][00000150D411D500 49] iPadPro97, [00000150D364CA00][00000150D4121680 49] iPadPro2_129, [00000150D3699800][00000150D4125800 49] iPad5, [00000150D364DD00][00000150D40E1940 49] iPad6, [00000150D374C500][00000150D4129A80 49] iPad7, [00000150D364C600][00000150D412DBC0 49] iPad8, [00000150D374E700][00000150D4131D00 49] iPadPro11, [00000150D364F500][00000150D41381C0 49] iPadPro2_11, [00000150D374E000][00000150D413C340 49] iPadPro3_129, [00000150D364CD00][00000150D41404C0 49] iPadPro4_129, [00000150D374EB00][00000150D4144640 49] AppleTV, [00000150D364EE00][00000150D41487C0 49] AppleTV4K, [00000150D374CD00][00000150D414C940 49] TVOS, [00000150D364ED00][00000150D4150AC0 49] Mac, [00000150D374C600][00000150D4154C40 49] MacClient, [00000150D364F200][00000150D4158DC0 49] MacNoEditor, [00000150D374DC00][00000150D415CF40 49] MacServer, [00000150D364C500][00000150D41610C0 49] Linux, [00000150D374D800][00000150D4165240 49] LinuxNoEditor, [00000150D364DE00][00000150D41693C0 49] LinuxAArch64NoEditor, [00000150D374DB00][00000150D416D540 49] LinuxClient, [00000150D364D400][00000150D41716C0 49] LinuxAArch64Client, [00000150D374C200][00000150D4175840 49] LinuxServer, [00000150D364D000][00000150D4135980 49] LinuxAArch64Server, [00000150D374C700][00000150D4179AC0 49] Android, [00000150D364DC00][00000150D417DC00 49] Android_Low, [00000150D374E200][00000150D4181D40 49] Android_Mid, [00000150D364E900][00000150D4188200 49] Android_High, [00000150D374E400][00000150D418C380 49] Android_Default, [00000150D364C700][00000150D4190500 49] Android_Adreno4xx, [00000150D374DA00][00000150D4194680 49] Android_Adreno5xx_Low, [00000150D364F800][00000150D4198800 49] Android_Adreno5xx, [00000150D374E500][00000150D419C980 49] Android_Adreno6xx, [00000150D364C100][00000150D41A0B00 49] Android_Adreno6xx_Vulkan, [00000150D374CA00][00000150D41A4C80 49] Android_Mali_T6xx, [00000150D364F300][00000150D41A8E00 49] Android_Mali_T7xx, [00000150D3699500][00000150D41ACF80 49] Android_Mali_T8xx, [00000150D36A7700][00000150D41B1100 49] Android_Mali_G71, [00000150D369BB00][00000150D41B5280 49] Android_Mali_G72, [00000150D36A5F00][00000150D41B9400 49] Android_Mali_G72_Vulkan, [00000150D369A200][00000150D41BD580 49] Android_Mali_G76, [00000150D36A4500][00000150D41C1700 49] Android_Mali_G76_Vulkan, [00000150D369A700][00000150D41C5880 49] Android_Mali_G77, [00000150D36A7C00][00000150D41C9A00 49] Android_Mali_G77_Vulkan, [00000150D369AB00][00000150D4185B40 49] Android_Vulkan_SM5, [00000150D36A6D00][00000150D41DFC80 49] Android_PowerVR_G6xxx, [00000150D3698A00][00000150D41E2100 49] Android_PowerVR_GT7xxx, [00000150D36A5400][00000150D41EE280 49] Android_PowerVR_GE8xxx, [00000150D369B600][00000150D41F6400 49] Android_PowerVR_GM9xxx, [00000150D36A4F00][00000150D421E580 49] Android_PowerVR_GM9xxx_Vulkan, [00000150D369B800][00000150D4222700 49] Android_TegraK1, [00000150D36A7800][00000150D4226880 49] Android_Unknown_Vulkan, [00000150D369A600][00000150D422AA00 49] Lumin, [00000150D36A4E00][00000150D422EB80 49] Lumin_Desktop, [00000150D3698300][00000150D4232D00 49] HoloLens, 
+[2021.03.17-16.57.27:925][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.17-16.57.27:925][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.17-16.57.27:925][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.17-16.57.27:925][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.17-16.57.27:926][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.17-16.57.28:098][  0]LogNetVersion: RokokoAnimImportTest 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2328976788)
+[2021.03.17-16.57.32:774][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.03.17-16.57.32:856][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.082046 seconds
+[2021.03.17-16.57.32:863][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.03.17-16.57.32:863][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.03.17-16.57.32:863][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.17-16.57.34:187][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.17-16.57.34:212][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.17-16.57.35:625][  0]LogLinker: Warning: Failed to load '/Game/VehicleAdvBP/AdvancedVehicleOverview': Can't find file.
+[2021.03.17-16.57.35:625][  0]LogLinker: Warning: Failed to load '/Game/VehicleAdvBP/AdvancedVehicleOverview': Can't find file.
+[2021.03.17-16.57.35:625][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/VehicleAdvBP/AdvancedVehicleOverview.AdvancedVehicleOverview_C'
+[2021.03.17-16.57.35:759][  0]SourceControl: Source control is disabled
+[2021.03.17-16.57.35:759][  0]SourceControl: Source control is disabled
+[2021.03.17-16.57.35:781][  0]SourceControl: Source control is disabled
+[2021.03.17-16.57.35:821][  0]SourceControl: Source control is disabled
+[2021.03.17-16.57.35:862][  0]SourceControl: Source control is disabled
+[2021.03.17-16.57.35:900][  0]LogUProjectInfo: Found projects:
+[2021.03.17-16.57.35:923][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.03.17-16.57.35:924][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.03.17-16.57.37:148][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.17-16.57.37:238][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.17-16.57.37:238][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.17-16.57.37:896][  0]LogOcInput: OculusInput pre-init called
+[2021.03.17-16.57.38:268][  0]LogCollectionManager: Loaded 0 collections in 0.001329 seconds
+[2021.03.17-16.57.38:483][  0]LogFileCache: Scanning file cache for directory 'D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Collections/' took 0.00s
+[2021.03.17-16.57.38:483][  0]LogFileCache: Scanning file cache for directory 'D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Content/Developers/Victor/Collections/' took 0.00s
+[2021.03.17-16.57.38:483][  0]LogFileCache: Scanning file cache for directory 'D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Content/Collections/' took 0.00s
+[2021.03.17-16.57.38:483][  0]LogEngine: Initializing Engine...
+[2021.03.17-16.57.38:548][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.03.17-16.57.38:548][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.17-16.57.38:551][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.03.17-16.57.38:949][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.17-16.57.38:999][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.17-16.57.39:003][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.03.17-16.57.39:027][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.03.17-16.57.39:027][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.03.17-16.57.39:027][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.17-16.57.39:027][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.17-16.57.39:027][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.17-16.57.39:027][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.17-16.57.39:027][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.17-16.57.39:027][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.17-16.57.39:027][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.17-16.57.39:027][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.17-16.57.39:029][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.17-16.57.39:029][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.17-16.57.39:096][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.17-16.57.39:097][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.17-16.57.39:147][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.03.17-16.57.39:148][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.17-16.57.39:174][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.17-16.57.39:174][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.17-16.57.39:175][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.17-16.57.39:176][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.17-16.57.39:176][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.17-16.57.39:177][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.17-16.57.39:177][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.17-16.57.39:177][  0]LogInit: FAudioDevice initialized.
+[2021.03.17-16.57.39:177][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.03.17-16.57.39:178][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.17-16.57.39:233][  0]LogDerivedDataCache: Saved boot cache 0.05s 106MB C:/Users/Victor/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.17-16.57.39:238][  0]LogInit: Texture streaming: Enabled
+[2021.03.17-16.57.39:305][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.03.17-16.57.39:323][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.17-16.57.39:323][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.17-16.57.39:325][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.17-16.57.39:425][  0]LogInit: Transaction tracking system initialized
+[2021.03.17-16.57.39:571][  0]BlueprintLog: New page: Editor Load
+[2021.03.17-16.57.40:029][  0]LocalizationService: Localization service is disabled
+[2021.03.17-16.57.40:193][  0]TimingProfiler: Initialize
+[2021.03.17-16.57.40:194][  0]TimingProfiler: OnSessionChanged
+[2021.03.17-16.57.40:195][  0]LoadingProfiler: Initialize
+[2021.03.17-16.57.40:195][  0]LoadingProfiler: OnSessionChanged
+[2021.03.17-16.57.40:195][  0]NetworkingProfiler: Initialize
+[2021.03.17-16.57.40:195][  0]NetworkingProfiler: OnSessionChanged
+[2021.03.17-16.57.40:196][  0]MemoryProfiler: Initialize
+[2021.03.17-16.57.40:196][  0]MemoryProfiler: OnSessionChanged
+[2021.03.17-16.57.40:800][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.03.17-16.57.40:800][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.03.17-16.57.41:239][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.03.17-16.57.41:239][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.17-16.57.42:271][  0]LogFileCache: Scanning file cache for directory 'D:/Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Content/' took 0.01s
+[2021.03.17-16.57.42:550][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.03.17-16.57.42:555][  0]SourceControl: Source control is disabled
+[2021.03.17-16.57.42:556][  0]LogUnrealEdMisc: Loading editor; pre map load, took 32.069
+[2021.03.17-16.57.42:564][  0]LightingResults: New page: Lighting Build
+[2021.03.17-16.57.42:567][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-16.57.42:567][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-16.57.42:568][  0]MapCheck: New page: Map Check
+[2021.03.17-16.57.42:568][  0]LightingResults: New page: Lighting Build
+[2021.03.17-16.57.42:580][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.03.17-16.57.43:314][  0]LogTexture: Display: Building textures: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2021.03.17-16.57.43:480][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.03.17-16.57.43:480][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.03.17-16.57.43:511][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.17-16.57.43:521][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.03.17-16.57.43:522][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.17-16.57.43:522][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.366ms to complete.
+[2021.03.17-16.57.43:522][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.966
+[2021.03.17-16.57.43:539][  0]LogUnrealEdMisc: Total Editor Startup Time, took 33.053
+[2021.03.17-16.57.43:696][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.17-16.57.43:704][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.17-16.57.43:709][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.17-16.57.43:716][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.17-16.57.43:755][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0102 seconds. Added 3601 classes and 859 folders.
+[2021.03.17-16.57.43:761][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.17-16.57.43:787][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.17-16.57.43:787][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-16.57.43:787][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.17-16.57.43:787][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.03.17-16.57.43:797][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.17-16.57.43:797][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-16.57.43:797][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.17-16.57.43:797][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.03.17-16.57.43:804][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.03.17-16.57.43:805][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-16.57.43:805][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.03.17-16.57.43:805][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.03.17-16.57.43:814][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.17-16.57.43:814][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-16.57.43:814][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.17-16.57.43:814][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.03.17-16.57.43:824][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.17-16.57.43:824][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-16.57.43:824][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.17-16.57.43:824][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.03.17-16.57.43:834][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.17-16.57.43:834][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-16.57.43:834][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.17-16.57.43:834][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.03.17-16.57.43:844][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.17-16.57.43:844][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-16.57.43:844][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.17-16.57.43:844][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.03.17-16.57.43:854][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.17-16.57.43:854][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-16.57.43:854][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.17-16.57.43:854][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.03.17-16.57.43:867][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.17-16.57.43:867][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-16.57.43:867][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.17-16.57.43:867][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.03.17-16.57.43:876][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.17-16.57.43:876][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-16.57.43:876][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.17-16.57.43:876][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.03.17-16.57.43:884][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.17-16.57.43:885][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-16.57.43:885][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.17-16.57.43:885][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.03.17-16.57.43:894][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.17-16.57.43:894][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-16.57.43:894][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.17-16.57.43:894][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2021.03.17-16.57.43:903][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.17-16.57.43:903][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-16.57.43:903][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.17-16.57.43:903][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2021.03.17-16.57.43:914][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.17-16.57.43:914][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-16.57.43:914][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.17-16.57.43:914][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2021.03.17-16.57.43:924][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.17-16.57.43:924][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-16.57.43:924][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.17-16.57.43:924][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2021.03.17-16.57.43:935][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.17-16.57.43:935][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-16.57.43:935][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.17-16.57.43:935][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2021.03.17-16.57.43:944][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.17-16.57.43:944][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-16.57.43:944][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.17-16.57.43:944][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2021.03.17-16.57.43:952][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.17-16.57.43:952][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-16.57.43:952][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.17-16.57.43:952][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2021.03.17-16.57.43:962][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.17-16.57.43:962][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-16.57.43:962][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.17-16.57.43:962][  0]LogPakFile: OnPakFileMounted2Time == 0.000103
+[2021.03.17-16.57.43:980][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.17-16.57.43:980][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-16.57.43:980][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.17-16.57.43:980][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2021.03.17-16.57.43:988][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.17-16.57.43:988][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-16.57.43:989][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.17-16.57.43:989][  0]LogPakFile: OnPakFileMounted2Time == 0.000113
+[2021.03.17-16.57.44:000][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.17-16.57.44:000][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-16.57.44:000][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.17-16.57.44:000][  0]LogPakFile: OnPakFileMounted2Time == 0.000118
+[2021.03.17-16.57.44:010][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.03.17-16.57.44:010][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-16.57.44:010][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.03.17-16.57.44:010][  0]LogPakFile: OnPakFileMounted2Time == 0.000122
+[2021.03.17-16.57.44:018][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.17-16.57.44:018][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-16.57.44:018][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.17-16.57.44:018][  0]LogPakFile: OnPakFileMounted2Time == 0.000126
+[2021.03.17-16.57.44:027][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.17-16.57.44:027][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-16.57.44:027][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.17-16.57.44:027][  0]LogPakFile: OnPakFileMounted2Time == 0.000133
+[2021.03.17-16.57.44:037][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.17-16.57.44:037][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.17-16.57.44:037][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.17-16.57.44:037][  0]LogPakFile: OnPakFileMounted2Time == 0.000138
+[2021.03.17-16.57.44:399][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.17-16.57.44:409][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.03.17-16.57.44:557][  0]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-16.57.44:567][  0]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-16.57.44:600][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.03.17-16.57.44:600][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.03.17-16.57.44:600][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.03.17-16.57.44:600][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.03.17-16.57.44:600][  0]LogLoad: (Engine Initialization) Total time: 34.11 seconds
+[2021.03.17-16.57.44:600][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.17-16.57.44:600][  0]LogInit: First time updating LLM stats...
+[2021.03.17-16.57.44:619][  0]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2021.03.17-16.57.44:620][  0]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2021.03.17-16.57.44:660][  0]LogAssetRegistry: Asset discovery search completed in 17.4798 seconds
+[2021.03.17-16.57.44:663][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2021.03.17-16.57.44:723][  0]LogContentStreaming: Texture pool size now 600 MB
+[2021.03.17-16.57.44:741][  0]LogSlate: Took 0.007830 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.17-16.57.44:750][  0]LogSlate: Took 0.007286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.17-16.57.44:763][  0]LogSlate: Took 0.008678 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.17-16.57.45:027][  0]LogSlate: Took 0.008040 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.17-16.57.45:138][  0]LogRenderer: Reallocating scene render targets to support 808x588 Format 9 NumSamples 1 (Frame:1).
+[2021.03.17-16.57.45:899][ 27]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-16.57.47:307][ 73]LogRenderer: Reallocating scene render targets to support 1064x692 Format 9 NumSamples 1 (Frame:74).
+[2021.03.17-16.59.12:973][839]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-16.59.12:974][839]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.17-16.59.12:991][839]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/ThirdPersonBP/RokokoAnim/mjanimtest1_Skeleton.mjanimtest1_Skeleton
+[2021.03.17-16.59.13:023][839]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.03.17-16.59.13:280][839]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.17-16.59.13:285][839]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2021.03.17-16.59.13:302][839]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-16.59.15:622][920]LogRenderer: Reallocating scene render targets to support 1064x896 Format 9 NumSamples 1 (Frame:82).
+[2021.03.17-18.53.36:022][349]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-18.53.43:456][787]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-18.53.44:403][842]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-18.53.46:007][925]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-18.53.46:775][967]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-18.53.47:710][ 18]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-18.54.08:254][458]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-18.54.17:323][485]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-18.54.17:353][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.03.17-18.54.17:354][485]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.007
+[2021.03.17-18.54.17:355][485]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/RokokoAnim/mjanimtest1_Skeleton] ([1] browsable assets)...
+[2021.03.17-18.54.17:355][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/RokokoAnim/mjanimtest1_Skeleton]
+[2021.03.17-18.54.17:365][485]LogSavePackage: Moving '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/mjanimtest1_Skeleton_Auto1A1B2276C46C6D14E7CAAD6A694D01F2B.tmp' to '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Autosaves/Game/ThirdPersonBP/RokokoAnim/mjanimtest1_Skeleton_Auto1.uasset'
+[2021.03.17-18.54.17:366][485]LogFileHelpers: Auto-saving content packages took 0.012
+[2021.03.17-18.59.05:983][439]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-18.59.23:170][439]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-18.59.35:849][142]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-18.59.39:190][335]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-18.59.43:076][553]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-18.59.51:277][ 28]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.00.09:890][ 84]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.01.20:079][514]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.01.25:804][826]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.01.28:024][947]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.01.30:002][ 62]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.01.34:964][345]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.01.36:668][441]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.01.39:473][603]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.01.44:104][867]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.01.45:992][977]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.01.53:442][405]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.01.59:872][766]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.02.02:140][886]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.02.04:405][ 14]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.02.10:553][365]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.02.14:422][589]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.02.22:426][ 40]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.02.26:662][284]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.02.35:487][787]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.02.38:665][962]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.02.40:656][ 66]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.02.46:872][414]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.02.49:356][556]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.02.50:560][619]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.04.10:013][719]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.04.14:730][975]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.04.18:216][176]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.04.42:076][426]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.04.44:089][531]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.04.47:154][707]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.04.50:812][907]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.04.56:030][208]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.05.00:861][475]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.05.03:868][637]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.05.06:609][792]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.05.16:768][384]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.05.20:855][614]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.05.23:591][772]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.05.26:053][904]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.05.29:761][116]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.05.34:239][366]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.05.42:877][858]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.05.46:107][ 33]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.05.49:290][212]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.06.06:525][415]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.06.15:602][442]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.06.15:618][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.03.17-19.06.15:620][442]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.007
+[2021.03.17-19.06.15:620][442]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/RokokoAnim/mjanimtest1_Skeleton] ([1] browsable assets)...
+[2021.03.17-19.06.15:620][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/RokokoAnim/mjanimtest1_Skeleton]
+[2021.03.17-19.06.15:631][442]LogSavePackage: Moving '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/mjanimtest1_Skeleton_Auto22596E5B14090681D31058A8CA3276A6C.tmp' to '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Autosaves/Game/ThirdPersonBP/RokokoAnim/mjanimtest1_Skeleton_Auto2.uasset'
+[2021.03.17-19.06.15:632][442]LogFileHelpers: Auto-saving content packages took 0.013
+[2021.03.17-19.06.47:246][836]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.06.54:662][244]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.07.08:838][ 13]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.07.12:288][ 13]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.07.13:306][ 13]LogSlate: Window 'Message' being destroyed
+[2021.03.17-19.07.13:314][ 13]Message dialog closed, result: Yes, title: Message, text: RokokoBoneMap already exists. Do you want to replace it?
+[2021.03.17-19.07.13:315][ 13]LogSlate: Window 'Save Mapping' being destroyed
+[2021.03.17-19.07.15:130][109]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.07.15:153][109]LogSavePackage: Moving '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/mjanimtest1_Skeleton5079812E48A98B5BBC398592D0344416.tmp' to '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Content/ThirdPersonBP/RokokoAnim/mjanimtest1_Skeleton.uasset'
+[2021.03.17-19.07.15:177][109]AssetCheck: New page: Asset Save: mjanimtest1_Skeleton
+[2021.03.17-19.07.15:177][109]LogContentValidation: Display: Validating Skeleton /Game/ThirdPersonBP/RokokoAnim/mjanimtest1_Skeleton.mjanimtest1_Skeleton
+[2021.03.17-19.07.19:650][253]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.07.19:976][269]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.07.20:615][304]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.07.23:198][427]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.07.23:995][465]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.07.24:975][508]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.07.24:985][508]LogSlate: Took 0.007785 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.17-19.07.25:027][508]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.03.17-19.07.35:384][ 71]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.07.38:639][ 71]LogSlate: Window 'Create New Animation Object' being destroyed
+[2021.03.17-19.07.41:725][225]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/mjanimtest1_Anim.mjanimtest1_Anim
+[2021.03.17-19.07.41:725][225]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/mjanimtest1_Anim.mjanimtest1_Anim
+[2021.03.17-19.07.41:725][225]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.07.41:732][225]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.03.17-19.07.41:744][225]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-19.07.41:744][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-19.07.41:761][225]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-19.07.41:761][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-19.07.41:875][226]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/mjanimtest1_Anim.mjanimtest1_Anim
+[2021.03.17-19.07.42:799][267]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.07.44:428][339]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.07.44:439][339]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Mannequin/mjanimtest1_Anim.mjanimtest1_Anim
+[2021.03.17-19.07.44:489][339]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.17-19.07.45:290][339]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.03.17-19.07.47:868][442]LogRenderer: Reallocating scene render targets to support 1144x896 Format 9 NumSamples 1 (Frame:104).
+[2021.03.17-19.07.49:420][508]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.07.49:938][536]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.07.50:531][563]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.08.16:436][980]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-19.08.16:436][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-19.08.16:474][980]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-19.08.16:475][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-19.08.16:596][980]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-19.08.16:596][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-19.08.18:032][ 56]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.08.18:058][ 56]LogSavePackage: Moving '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/mjanimtest1_Skeleton4D5FF4B8417C6BC4C0ED5EB6BE3A8DF8.tmp' to '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Content/ThirdPersonBP/RokokoAnim/mjanimtest1_Skeleton.uasset'
+[2021.03.17-19.08.18:070][ 56]AssetCheck: New page: Asset Save: mjanimtest1_Skeleton
+[2021.03.17-19.08.18:070][ 56]LogContentValidation: Display: Validating Skeleton /Game/ThirdPersonBP/RokokoAnim/mjanimtest1_Skeleton.mjanimtest1_Skeleton
+[2021.03.17-19.11.52:067][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.03.17-19.11.52:099][955]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.11.53:242][955]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.17-19.11.53:284][955]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Mannequin/mjanimtest1_Anim.mjanimtest1_Anim
+[2021.03.17-19.11.53:289][955]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.11.53:971][955]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.03.17-19.12.06:672][430]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (mjbeckon_DEFAULT_AB3_Anim)
+[2021.03.17-19.12.08:101][471]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.12.08:109][471]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2021.03.17-19.12.08:115][471]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.17-19.12.12:110][588]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (mjbeckon_DEFAULT_AB3_Anim)
+[2021.03.17-19.12.13:898][663]Cmd: DELETE
+[2021.03.17-19.12.13:898][663]Cmd: ACTOR DELETE
+[2021.03.17-19.12.13:904][663]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.03.17-19.12.13:915][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.03.17-19.12.13:918][663]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.03.17-19.12.14:310][679]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (mjpushup_DEFAULT_AB3_Anim)
+[2021.03.17-19.12.14:791][694]Cmd: DELETE
+[2021.03.17-19.12.14:791][694]Cmd: ACTOR DELETE
+[2021.03.17-19.12.14:795][694]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.03.17-19.12.14:803][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.03.17-19.12.14:804][694]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.03.17-19.12.15:319][720]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (mjanimtest1_Anim2)
+[2021.03.17-19.12.15:632][730]Cmd: DELETE
+[2021.03.17-19.12.15:632][730]Cmd: ACTOR DELETE
+[2021.03.17-19.12.15:636][730]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.03.17-19.12.15:643][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.03.17-19.12.15:645][730]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.03.17-19.12.15:986][747]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (mjupset_DEFAULT_AB3_Anim)
+[2021.03.17-19.12.16:111][749]Cmd: DELETE
+[2021.03.17-19.12.16:111][749]Cmd: ACTOR DELETE
+[2021.03.17-19.12.16:114][749]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.03.17-19.12.16:121][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.03.17-19.12.16:122][749]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.03.17-19.12.18:504][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.03.17-19.12.18:535][829]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.12.20:574][829]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.17-19.12.21:168][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.03.17-19.12.21:189][851]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.12.21:882][851]LogSlate: Window 'Save Content' being destroyed
+[2021.03.17-19.12.21:913][851]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.12.21:939][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.03.17-19.12.21:981][851]LogSavePackage: Moving '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/ThirdPersonExampleMapCE809A2747672525A74958954D48636E.tmp' to '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.03.17-19.12.22:014][851]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.082
+[2021.03.17-19.12.22:028][851]LogSavePackage: Moving '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/UE4_Mannequin_Skeleton075F767A431359FCAC20C58E53C9BA3B.tmp' to '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2021.03.17-19.12.22:058][851]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.17-19.12.22:058][851]LogContentValidation: Display: Validating Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2021.03.17-19.12.22:058][851]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.03.17-19.12.23:875][919]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.03.17-19.12.23:894][919]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.12.24:999][919]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.17-19.12.25:039][919]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/mjupset_DEFAULT_AB3_Anim.mjupset_DEFAULT_AB3_Anim
+	Asset Name: /Game/mjanimtest1_Anim.mjanimtest1_Anim
+	Asset Name: /Game/mjbeckon_DEFAULT_AB3_Anim.mjbeckon_DEFAULT_AB3_Anim
+	Asset Name: /Game/mjpushup_DEFAULT_AB3_Anim.mjpushup_DEFAULT_AB3_Anim
+[2021.03.17-19.12.25:042][919]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.12.25:265][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.03.17-19.12.25:273][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.03.17-19.12.25:280][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.03.17-19.12.25:288][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.03.17-19.12.25:295][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.03.17-19.12.25:301][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.03.17-19.12.35:479][279]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/RokokoAnim/mjupset_DEFAULT_AB3_Anim.mjupset_DEFAULT_AB3_Anim
+[2021.03.17-19.12.35:479][279]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.12.36:239][297]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.12.36:502][306]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.12.38:053][339]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.12.38:275][341]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.12.38:993][356]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.12.39:660][376]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.12.39:706][376]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.03.17-19.12.44:732][523]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mjanimtest1_Anim.mjanimtest1_Anim
+[2021.03.17-19.12.44:732][523]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mjbeckon_DEFAULT_AB3_Anim.mjbeckon_DEFAULT_AB3_Anim
+[2021.03.17-19.12.44:733][523]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.12.44:735][523]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.03.17-19.12.44:746][523]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-19.12.44:746][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-19.12.44:760][523]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-19.12.44:760][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-19.12.44:809][523]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mjpushup_DEFAULT_AB3_Anim.mjpushup_DEFAULT_AB3_Anim
+[2021.03.17-19.12.44:809][523]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mjupset_DEFAULT_AB3_Anim.mjupset_DEFAULT_AB3_Anim
+[2021.03.17-19.12.48:456][527]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.12.55:156][607]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/mjbeckon_DEFAULT_AB3_Anim.mjbeckon_DEFAULT_AB3_Anim
+[2021.03.17-19.21.33:807][254]LogSlate: Window 'SK_Mannequin' being destroyed
+[2021.03.17-19.21.33:813][254]LogSlate: Window 'SK_Mannequin' being destroyed
+[2021.03.17-19.21.33:814][254]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-19.21.33:814][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-19.21.33:974][254]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-19.21.33:974][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-19.22.23:219][475]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.22.31:902][501]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.22.31:920][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.03.17-19.22.31:929][501]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.017
+[2021.03.17-19.22.31:929][501]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2021.03.17-19.22.31:929][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton]
+[2021.03.17-19.22.31:937][501]LogSavePackage: Moving '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/UE4_Mannequin_Skeleton_Auto34B35CDDF4532E20DF2CBABA989499DB9.tmp' to '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Autosaves/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton_Auto3.uasset'
+[2021.03.17-19.22.31:938][501]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/RokokoAnim/mjanimtest1_Skeleton] ([1] browsable assets)...
+[2021.03.17-19.22.31:938][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/RokokoAnim/mjanimtest1_Skeleton]
+[2021.03.17-19.22.31:947][501]LogSavePackage: Moving '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/mjanimtest1_Skeleton_Auto3771E8A5844EDF9AB1B55BF8E61495E5F.tmp' to '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Autosaves/Game/ThirdPersonBP/RokokoAnim/mjanimtest1_Skeleton_Auto3.uasset'
+[2021.03.17-19.22.31:947][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/mjanimtest1_Anim] ([1] browsable assets)...
+[2021.03.17-19.22.31:960][501]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/mjanimtest1_Anim.mjanimtest1_Anim]
+[2021.03.17-19.22.31:960][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/mjanimtest1_Anim]
+[2021.03.17-19.22.31:984][501]LogSavePackage: Moving '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/mjanimtest1_Anim_Auto33DD5FBC14DA186DDA548B0B4DC1CC05E.tmp' to '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Autosaves/Game/mjanimtest1_Anim_Auto3.uasset'
+[2021.03.17-19.22.31:985][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/mjbeckon_DEFAULT_AB3_Anim] ([1] browsable assets)...
+[2021.03.17-19.22.31:997][501]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/mjbeckon_DEFAULT_AB3_Anim.mjbeckon_DEFAULT_AB3_Anim]
+[2021.03.17-19.22.31:997][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/mjbeckon_DEFAULT_AB3_Anim]
+[2021.03.17-19.22.32:019][501]LogSavePackage: Moving '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/mjbeckon_DEFAULT_AB3_Anim_Auto3FE0E3B2C444F624F7D42A1BDC2AED284.tmp' to '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Autosaves/Game/mjbeckon_DEFAULT_AB3_Anim_Auto3.uasset'
+[2021.03.17-19.22.32:019][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/mjpushup_DEFAULT_AB3_Anim] ([1] browsable assets)...
+[2021.03.17-19.22.32:031][501]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/mjpushup_DEFAULT_AB3_Anim.mjpushup_DEFAULT_AB3_Anim]
+[2021.03.17-19.22.32:031][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/mjpushup_DEFAULT_AB3_Anim]
+[2021.03.17-19.22.32:056][501]LogSavePackage: Moving '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/mjpushup_DEFAULT_AB3_Anim_Auto3A2E6CB2E40678C52891A1E9A416E4FC1.tmp' to '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Autosaves/Game/mjpushup_DEFAULT_AB3_Anim_Auto3.uasset'
+[2021.03.17-19.22.32:056][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/mjupset_DEFAULT_AB3_Anim] ([1] browsable assets)...
+[2021.03.17-19.22.32:071][501]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/mjupset_DEFAULT_AB3_Anim.mjupset_DEFAULT_AB3_Anim]
+[2021.03.17-19.22.32:072][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/mjupset_DEFAULT_AB3_Anim]
+[2021.03.17-19.22.32:090][501]LogSavePackage: Moving '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/mjupset_DEFAULT_AB3_Anim_Auto3ABA5B74C4BD0F98E95ED82A79F168FF4.tmp' to '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/Autosaves/Game/mjupset_DEFAULT_AB3_Anim_Auto3.uasset'
+[2021.03.17-19.22.32:090][501]LogFileHelpers: Auto-saving content packages took 0.161
+[2021.03.17-19.23.18:067][700]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.23.18:885][748]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.23.20:344][833]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.23.22:028][931]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.24.05:484][931]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.24.28:108][931]LogSlate: Window 'FBX Export Options' being destroyed
+[2021.03.17-19.24.28:345][931]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.7.0
+
+
+[2021.03.17-19.24.30:855][931]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.24.32:226][931]LogSlate: Window 'FBX Export Options' being destroyed
+[2021.03.17-19.24.32:429][931]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.7.0
+
+
+[2021.03.17-19.24.34:388][931]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.24.35:318][931]LogSlate: Window 'FBX Export Options' being destroyed
+[2021.03.17-19.24.35:556][931]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.7.0
+
+
+[2021.03.17-19.24.37:281][931]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.24.38:551][931]LogSlate: Window 'FBX Export Options' being destroyed
+[2021.03.17-19.24.38:717][931]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.7.0
+
+
+[2021.03.17-19.54.09:195][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.03.17-19.54.09:210][617]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.54.10:613][617]LogSlate: Window 'Save Content' being destroyed
+[2021.03.17-19.54.10:627][617]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.54.10:639][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mjanimtest1_Anim" FILE="../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Content/mjanimtest1_Anim.uasset" SILENT=true
+[2021.03.17-19.54.10:656][617]LogSavePackage: Moving '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/mjanimtest1_AnimEB3C7815439D4EC3D3F46AA226FAB534.tmp' to '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Content/mjanimtest1_Anim.uasset'
+[2021.03.17-19.54.10:666][617]LogSavePackage: Moving '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/mjanimtest1_Skeleton85C8F9EA4C38F9876CD5828C58B9A5D7.tmp' to '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Content/ThirdPersonBP/RokokoAnim/mjanimtest1_Skeleton.uasset'
+[2021.03.17-19.54.10:685][617]LogSavePackage: Moving '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/mjbeckon_DEFAULT_AB3_AnimAAE8B9D346A9608D35A54B833200AD09.tmp' to '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Content/mjbeckon_DEFAULT_AB3_Anim.uasset'
+[2021.03.17-19.54.10:709][617]LogSavePackage: Moving '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/mjpushup_DEFAULT_AB3_Anim3C4B9DD240615615995EEC9E2867CC1A.tmp' to '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Content/mjpushup_DEFAULT_AB3_Anim.uasset'
+[2021.03.17-19.54.10:727][617]LogSavePackage: Moving '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/mjupset_DEFAULT_AB3_AnimE484FF8E40F2CCBDFBAF87A002A74F84.tmp' to '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Content/mjupset_DEFAULT_AB3_Anim.uasset'
+[2021.03.17-19.54.10:737][617]LogSavePackage: Moving '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/UE4_Mannequin_SkeletonB1936E5D42B5EEA7851187ADF4321FCF.tmp' to '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2021.03.17-19.54.10:753][617]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.17-19.54.10:753][617]LogContentValidation: Display: Validating Skeleton /Game/ThirdPersonBP/RokokoAnim/mjanimtest1_Skeleton.mjanimtest1_Skeleton
+[2021.03.17-19.54.10:753][617]LogContentValidation: Display: Validating Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2021.03.17-19.54.10:753][617]LogContentValidation: Display: Validating AnimSequence /Game/mjupset_DEFAULT_AB3_Anim.mjupset_DEFAULT_AB3_Anim
+[2021.03.17-19.54.10:753][617]LogContentValidation: Display: Validating AnimSequence /Game/mjpushup_DEFAULT_AB3_Anim.mjpushup_DEFAULT_AB3_Anim
+[2021.03.17-19.54.10:753][617]LogContentValidation: Display: Validating AnimSequence /Game/mjbeckon_DEFAULT_AB3_Anim.mjbeckon_DEFAULT_AB3_Anim
+[2021.03.17-19.54.10:753][617]LogContentValidation: Display: Validating AnimSequence /Game/mjanimtest1_Anim.mjanimtest1_Anim
+[2021.03.17-19.54.12:101][694]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.54.12:302][704]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.54.12:429][710]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.54.12:523][715]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.54.12:597][718]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.54.20:001][774]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.54.20:042][774]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/Rokoko_motion_library/Psy/MJ_test_raw/mjtest_anim_clean.fbx)
+[2021.03.17-19.54.20:067][774]LogFbx: Loading FBX Scene from ../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/Rokoko_motion_library/Psy/MJ_test_raw/mjtest_anim_clean.fbx
+[2021.03.17-19.54.20:197][774]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.17-19.54.20:223][774]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.54.23:109][774]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.54.26:242][774]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(0) Root
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(1) Hips
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(2) LeftThigh
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(3) LeftShin
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(4) LeftFoot
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(5) LeftToe
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(6) LeftToeTip
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(7) RightThigh
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(8) RightShin
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(9) RightFoot
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(10) RightToe
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(11) RightToeTip
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(12) Spine1
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(13) Spine2
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(14) Spine3
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(15) Spine4
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(16) LeftShoulder
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(17) LeftArm
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(18) LeftForeArm
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(19) LeftHand
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(20) LeftFinger1Metacarpal
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(21) LeftFinger1Proximal
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(22) LeftFinger1Distal
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(23) LeftFinger1Tip
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(24) LeftFinger2Metacarpal
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(25) LeftFinger2Proximal
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(26) LeftFinger2Medial
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(27) LeftFinger2Distal
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(28) LeftFinger2Tip
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(29) LeftFinger3Metacarpal
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(30) LeftFinger3Proximal
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(31) LeftFinger3Medial
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(32) LeftFinger3Distal
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(33) LeftFinger3Tip
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(34) LeftFinger4Metacarpal
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(35) LeftFinger4Proximal
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(36) LeftFinger4Medial
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(37) LeftFinger4Distal
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(38) LeftFinger4Tip
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(39) LeftFinger5Metacarpal
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(40) LeftFinger5Proximal
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(41) LeftFinger5Medial
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(42) LeftFinger5Distal
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(43) LeftFinger5Tip
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(44) Neck
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(45) Head
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(46) HeadVertex
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(47) RightShoulder
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(48) RightArm
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(49) RightForeArm
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(50) RightHand
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(51) RightFinger1Metacarpal
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(52) RightFinger1Proximal
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(53) RightFinger1Distal
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(54) RightFinger1Tip
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(55) RightFinger2Metacarpal
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(56) RightFinger2Proximal
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(57) RightFinger2Medial
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(58) RightFinger2Distal
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(59) RightFinger2Tip
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(60) RightFinger3Metacarpal
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(61) RightFinger3Proximal
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(62) RightFinger3Medial
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(63) RightFinger3Distal
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(64) RightFinger3Tip
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(65) RightFinger4Metacarpal
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(66) RightFinger4Proximal
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(67) RightFinger4Medial
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(68) RightFinger4Distal
+[2021.03.17-19.54.26:266][774]LogFbx: SortedLinks :(69) RightFinger4Tip
+[2021.03.17-19.54.26:267][774]LogFbx: SortedLinks :(70) RightFinger5Metacarpal
+[2021.03.17-19.54.26:267][774]LogFbx: SortedLinks :(71) RightFinger5Proximal
+[2021.03.17-19.54.26:267][774]LogFbx: SortedLinks :(72) RightFinger5Medial
+[2021.03.17-19.54.26:267][774]LogFbx: SortedLinks :(73) RightFinger5Distal
+[2021.03.17-19.54.26:267][774]LogFbx: SortedLinks :(74) RightFinger5Tip
+[2021.03.17-19.54.26:273][774]LogFbx: Parsing AnimStack Take 001
+[2021.03.17-19.54.33:677][774]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/RokokoAnim/mjtest_anim_clean.mjtest_anim_clean
+[2021.03.17-19.54.33:678][774]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/RokokoAnim/mjtest_anim_clean.mjtest_anim_clean
+[2021.03.17-19.54.34:696][829]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.54.35:261][862]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.54.35:270][862]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ThirdPersonBP/RokokoAnim/mjtest_anim_clean.mjtest_anim_clean
+[2021.03.17-19.54.35:273][862]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.17-19.54.35:286][862]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.54.35:639][862]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.03.17-19.54.49:932][703]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-19.54.49:964][703]LogSavePackage: Moving '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/mjtest_anim_cleanF8E3BFEE4C494E3ADC58D1ADFCD45335.tmp' to '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Content/ThirdPersonBP/RokokoAnim/mjtest_anim_clean.uasset'
+[2021.03.17-19.54.49:974][703]AssetCheck: New page: Asset Save: mjtest_anim_clean
+[2021.03.17-19.54.49:974][703]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/RokokoAnim/mjtest_anim_clean.mjtest_anim_clean
+[2021.03.17-19.54.50:924][756]LogSlate: Window 'mjtest_anim_clean' being destroyed
+[2021.03.17-19.54.50:929][756]LogSlate: Window 'mjtest_anim_clean' being destroyed
+[2021.03.17-19.54.50:930][756]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-19.54.50:930][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-19.54.50:954][756]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-19.54.50:954][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-19.54.51:038][756]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-19.54.51:038][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-20.05.02:925][672]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-20.05.02:933][672]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ThirdPersonBP/RokokoAnim/mjtest_anim_clean.mjtest_anim_clean
+[2021.03.17-20.05.02:937][672]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.17-20.05.02:952][672]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-20.05.03:326][672]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.03.17-20.05.04:579][746]LogSlate: Window 'mjtest_anim_clean' being destroyed
+[2021.03.17-20.05.04:586][746]LogSlate: Window 'mjtest_anim_clean' being destroyed
+[2021.03.17-20.05.04:586][746]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-20.05.04:586][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-20.05.04:612][746]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-20.05.04:613][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-20.05.04:707][746]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-20.05.04:707][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-20.05.06:501][850]LogContentBrowser: Deferred new asset file creation: mjtest_anim_clean1
+[2021.03.17-20.05.06:517][850]LogContentBrowser: Creating deferred item: mjtest_anim_clean1
+[2021.03.17-20.05.07:330][899]LogContentBrowser: Attempting asset rename: mjtest_anim_clean1 -> mjtest_anim_clean1
+[2021.03.17-20.05.07:333][899]LogContentBrowser: End creating deferred item mjtest_anim_clean1
+[2021.03.17-20.05.08:549][972]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-20.05.08:560][972]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ThirdPersonBP/RokokoAnim/mjtest_anim_clean1.mjtest_anim_clean1
+[2021.03.17-20.05.08:564][972]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.17-20.05.08:579][972]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-20.05.08:994][972]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.03.17-20.05.20:638][667]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-20.05.22:457][775]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/RokokoAnim/mjtest_anim_clean1.mjtest_anim_clean1
+[2021.03.17-20.05.25:019][927]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-20.05.25:048][927]LogSavePackage: Moving '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/mjtest_anim_clean16A20D9D5406C76B079045EA02433F25E.tmp' to '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Content/ThirdPersonBP/RokokoAnim/mjtest_anim_clean1.uasset'
+[2021.03.17-20.05.25:061][927]AssetCheck: New page: Asset Save: mjtest_anim_clean1
+[2021.03.17-20.05.25:061][927]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/RokokoAnim/mjtest_anim_clean1.mjtest_anim_clean1
+[2021.03.17-20.05.25:936][977]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-20.05.47:218][242]LogContentBrowser: Attempting asset rename: mjtest_anim_clean1 -> PSY_MJ_waving
+[2021.03.17-20.05.47:225][242]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-20.05.47:240][242]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-20.05.47:272][242]LogSavePackage: Moving '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/PSY_MJ_wavingFBD1EB034A8903B977A8BFAD132237E8.tmp' to '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Content/ThirdPersonBP/RokokoAnim/PSY_MJ_waving.uasset'
+[2021.03.17-20.05.47:284][242]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-20.05.47:302][242]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-20.05.47:321][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.03.17-20.05.47:337][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.03.17-20.05.47:342][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.03.17-20.05.47:395][242]AssetCheck: New page: Asset Save: PSY_MJ_waving
+[2021.03.17-20.05.47:395][242]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/RokokoAnim/PSY_MJ_waving.PSY_MJ_waving
+[2021.03.17-20.06.04:128][174]LogContentBrowser: Attempting asset rename: PSY_MJ_waving -> PSY_MJ_waving_anim
+[2021.03.17-20.06.04:137][174]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-20.06.04:156][174]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-20.06.04:189][174]LogSavePackage: Moving '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Saved/PSY_MJ_waving_anim86041D4C4C859EAFE66FDD82DE8DAB49.tmp' to '../../../../../Psykinetic/Psykinetic/Design - Documents/Victor/UE4_projects/RokokoAnimImportTest/Content/ThirdPersonBP/RokokoAnim/PSY_MJ_waving_anim.uasset'
+[2021.03.17-20.06.04:197][174]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-20.06.04:215][174]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-20.06.04:229][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.03.17-20.06.04:241][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.03.17-20.06.04:246][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.03.17-20.06.04:306][174]AssetCheck: New page: Asset Save: PSY_MJ_waving_anim
+[2021.03.17-20.06.04:306][174]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/RokokoAnim/PSY_MJ_waving_anim.PSY_MJ_waving_anim
+[2021.03.17-20.07.19:238][747]LogSlate: Window 'PSY_MJ_waving_anim' being destroyed
+[2021.03.17-20.07.19:243][747]LogSlate: Window 'PSY_MJ_waving_anim' being destroyed
+[2021.03.17-20.07.19:243][747]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-20.07.19:243][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-20.07.19:273][747]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-20.07.19:273][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-20.07.19:361][747]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-20.07.19:361][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-20.07.22:999][962]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-20.07.23:010][962]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ThirdPersonBP/RokokoAnim/mjtest_anim_clean.mjtest_anim_clean
+[2021.03.17-20.07.23:014][962]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.17-20.07.23:027][962]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-20.07.23:425][962]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.03.17-20.07.25:972][113]LogSlate: Window 'mjtest_anim_clean' being destroyed
+[2021.03.17-20.07.25:978][113]LogSlate: Window 'mjtest_anim_clean' being destroyed
+[2021.03.17-20.07.25:978][113]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-20.07.25:979][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-20.07.26:000][113]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-20.07.26:000][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-20.07.26:079][113]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-20.07.26:080][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-20.07.27:016][167]LogContentBrowser: Deferred new asset file creation: mjtest_anim_clean1
+[2021.03.17-20.07.27:026][167]LogContentBrowser: Creating deferred item: mjtest_anim_clean1
+[2021.03.17-20.07.43:322][145]LogContentBrowser: Attempting asset rename: mjtest_anim_clean1 -> PSY_MJ_fightready_anim
+[2021.03.17-20.07.43:324][145]LogContentBrowser: End creating deferred item mjtest_anim_clean1
+[2021.03.17-20.07.45:764][290]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-20.07.45:778][290]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ThirdPersonBP/RokokoAnim/PSY_MJ_fightready_anim.PSY_MJ_fightready_anim
+[2021.03.17-20.07.45:783][290]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.17-20.07.45:798][290]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-20.07.46:148][290]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.03.17-20.07.51:083][583]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.03.17-20.07.52:207][648]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.03.17-20.07.52:376][648]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.169 s
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: === Handled ensure: ===
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: 
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: Ensure condition failed: Interval == SequenceLength/NumFrames [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Animation/AnimSequence.cpp] [Line: 1921]
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: 
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: Stack: 
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: [Callstack] 0x00007ffed2589fc9 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: [Callstack] 0x00007ffed0d4b5e3 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: [Callstack] 0x00007ffed0d217f9 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: [Callstack] 0x00007ffea76f76c5 UE4Editor-Persona.dll!UnknownFunction []
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: [Callstack] 0x00007ffea76bd7a4 UE4Editor-Persona.dll!UnknownFunction []
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: [Callstack] 0x00007fff050cee75 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: [Callstack] 0x00007fff050d5660 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: [Callstack] 0x00007fff050ab867 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: [Callstack] 0x00007fff051485fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: [Callstack] 0x00007fff0516077e UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: [Callstack] 0x00007fff050d6dd5 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: [Callstack] 0x00007fff04fa46be UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: [Callstack] 0x00007fff05027f54 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: [Callstack] 0x00007fff05010367 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: [Callstack] 0x00007fff05003642 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: [Callstack] 0x00007fff4b87bca5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: [Callstack] 0x00007fff4b869197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: [Callstack] 0x00007fff4b87e379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: [Callstack] 0x00007fff4b864310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: [Callstack] 0x00007fff79d2e858 USER32.dll!UnknownFunction []
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: [Callstack] 0x00007fff79d2e299 USER32.dll!UnknownFunction []
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: [Callstack] 0x00007fff4b87f904 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.17-20.07.52:376][648]LogOutputDevice: Error: [Callstack] 0x00007ff770ab8857 UE4Editor.exe!UnknownFunction []
+[2021.03.17-20.07.52:377][648]LogOutputDevice: Error: [Callstack] 0x00007ff770ad11ac UE4Editor.exe!UnknownFunction []
+[2021.03.17-20.07.52:377][648]LogOutputDevice: Error: [Callstack] 0x00007ff770ad128a UE4Editor.exe!UnknownFunction []
+[2021.03.17-20.07.52:377][648]LogOutputDevice: Error: [Callstack] 0x00007ff770ae52ed UE4Editor.exe!UnknownFunction []
+[2021.03.17-20.07.52:377][648]LogOutputDevice: Error: [Callstack] 0x00007ff770ae801a UE4Editor.exe!UnknownFunction []
+[2021.03.17-20.07.52:377][648]LogOutputDevice: Error: [Callstack] 0x00007fff7a767034 KERNEL32.DLL!UnknownFunction []
+[2021.03.17-20.07.52:377][648]LogOutputDevice: Error: [Callstack] 0x00007fff7a902651 ntdll.dll!UnknownFunction []
+[2021.03.17-20.07.52:377][648]LogOutputDevice: Error: 
